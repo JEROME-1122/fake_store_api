@@ -1,0 +1,14 @@
+.box{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+     transition: 0.5s;
+}
+
+.addbtn{
+    background-color:burlywood;
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+      display: inline-block;
+}
+.box:hover{
+    transform: scale(1.02);
+    transition: 0.5s;
+}
